@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RobolectricDemoProjectEclipse"/>
+	<classpathentry kind="lib" path="libs/fest-android-1.0.7.jar"/>
+	<classpathentry kind="lib" path="libs/fest-assert-core-2.0M10.jar"/>
+	<classpathentry kind="lib" path="libs/robolectric-2.3-20131124.230725-50-jar-with-dependencies.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Applications/Android/adt-bundle-mac-x86_64-20131030/sdk/platforms/android-19/android.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
